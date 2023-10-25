@@ -25,6 +25,9 @@ Estoy emocionado de asociarme con empresas con visión de futuro que valoran la 
 
 No dudes en conectarte para desarrollar posibles colaboraciones.
 
-- 📫 How to reach me: https://www.linkedin.com/in/faustoezquerra/
-                      faustoezquerra@gmail.com
+- 📫 How to reach me:
+
+https://www.linkedin.com/in/faustoezquerra/
+
+faustoezquerra@gmail.com
 
